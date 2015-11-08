@@ -1,1 +1,3 @@
-This repository explains how to install minix and recompile its kernel
+system calls for making input output
+operations on files and also for handling files and directories in
+the Linux operating system.
